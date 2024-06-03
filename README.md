@@ -1,6 +1,7 @@
-# Conversor de Moeda
+# Challenge Conversor de Moedas (Alura + Oracle Next Education)
 
-Este é um aplicativo simples de conversão de moeda que utiliza a API de taxas de câmbio para fornecer conversões precisas em tempo real.
+Este é um projeto simples que realiza a conversão de algumas moedas. Um menu interativo permite ao usuário escolher entre diferentes opções de conversão de moedas.
+<div><img src= "https://github.com/Peppers7/ConversorDeMoedas/blob/main/Badge-Conversor.png" ></div>
 
 ## Funcionalidades
 
