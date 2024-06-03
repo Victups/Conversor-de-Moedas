@@ -10,7 +10,7 @@ import java.net.http.HttpResponse;
 
 public class SolicitadorTaxaCambio {
 
-    private String chaveApi = "448189aa0d617ba7d7532de9";
+    private String chaveApi = "YOUR_KEY_HERE";
 
     public Double receberValor(String moeda1, String moeda2) throws IOException, InterruptedException {
         String endereco = "https://v6.exchangerate-api.com/v6/"+this.chaveApi+"/pair/"+moeda1+"/"+moeda2;
