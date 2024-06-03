@@ -1,7 +1,7 @@
 # Challenge Conversor de Moedas (Alura + Oracle Next Education)
 
 Este é um projeto simples que realiza a conversão de algumas moedas. Um menu interativo permite ao usuário escolher entre diferentes opções de conversão de moedas.
-<div><img src= "https://github.com/Victups/Conversor-de-Moedas/blob/main/Badge-Conversor.png" ></div>
+<div><img src="https://github.com/Victups/Conversor-de-Moedas/blob/main/Badge-Conversor.png"></div>
 
 ## Funcionalidades
 
@@ -27,8 +27,6 @@ Este é um projeto simples que realiza a conversão de algumas moedas. Um menu i
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-
 ## Autores
 
-- **Victor Pereira** - *Trabalho inicial* - [Meu Perfil no GitHub]((https://github.com/Victups))
-
+- **Victor Pereira** - *Trabalho inicial* - [Meu Perfil no GitHub](https://github.com/Victups)
